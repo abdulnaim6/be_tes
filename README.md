@@ -4,6 +4,9 @@
 - ExpressJS
 - DB PostgreSQL
 
+## Postman
+⚡[`Postman`](https://documenter.getpostman.com/view/28175511/2sA3dyhAte)⚡
+
 ## Environment Variables
 
 ```bash
@@ -14,6 +17,5 @@ DB=
 PORT=
 JWT_SECRET=
 
-## Postman
-⚡[`Postman`](https://documenter.getpostman.com/view/28175511/2sA3dyhAte)⚡
+
 
